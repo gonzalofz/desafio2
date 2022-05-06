@@ -1,0 +1,63 @@
+.imagen{
+    background-image: url("../img/baner.png");
+    width: 100%;
+    height: 270px;
+    background-size: cover;
+    text-align: center;
+   
+    margin: 5px
+    
+}
+
+body{
+    background-image: url(../img/lupu.jpg);
+    background-size: 1550px 1275px;
+    background-repeat: no-repeat;
+}
+
+.foto1{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    height: 300px;
+    margin: 15px;
+    border: 5px lightcyan;
+    background-position: left;
+
+}
+
+
+.foto2{
+    display: flex;
+    justify-content: center;
+
+    width: 250px;
+    height: 300px;
+    margin: 15px;
+    background-position: left;
+    
+}
+
+.foto3{
+    display: flex;
+    justify-content:left;
+    width: 500px;
+    height: 300px;
+    margin: 15px;
+    background-position: left;
+}
+    
+.parrafo{
+
+padding-top: 10px;
+
+}
+
+.parrafo2{
+    padding-top: 15px;
+}
+
+footer{
+    text-align: center;
+    background-color: lime;
+}
